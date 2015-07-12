@@ -22,6 +22,7 @@ library(datasets)
 with(pc1,plot(Sub_metering_1
               ,typ="l"
               ,xaxt = "n"
+              ,xlab=" "
               ,ylab="Energy Sub Metering"
 )
 )

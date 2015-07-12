@@ -20,6 +20,7 @@ library(datasets)
 
 plot(pc1$Global_active_power
      ,typ="l"
+     ,xlab=" "
      ,ylab="Global Active Power (kilowatts)"
      ,xaxt = "n"
 )
